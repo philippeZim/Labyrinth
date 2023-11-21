@@ -10,7 +10,7 @@ pip install pygame
 ```
 python3 main.py
 ```
-
+### Images:
 ![alt text](https://github.com/philippeZim/Labyrinth/blob/main/images/UI.png)
 ![alt text](https://github.com/philippeZim/Labyrinth/blob/main/images/maze.png)
 ![alt text](https://github.com/philippeZim/Labyrinth/blob/main/images/solved.png)
