@@ -1,4 +1,5 @@
 # Labyrinth
+### 22. ‎January ‎2021
 
 Generate a maze using DFS and solve it using BFS.
 ### Dependencies:
